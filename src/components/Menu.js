@@ -34,7 +34,7 @@ export default function Menu() {
             </ul>
           </nav>
 
-          <a href="./whitepaper.pdf" target='_blank'>
+          <a href="/whitepaper.pdf" target='_blank'>
             <button className="text-white-100 border-gradient rounded-lg btn-custom py-3 px-5 font-semibold">
               Whitepaper
             </button>
