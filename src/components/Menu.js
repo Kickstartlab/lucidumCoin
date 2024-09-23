@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 import top from '../assets/top.png';
+import whitepaper from '../assets/whitepaper.pdf';
+
 
 
 
@@ -35,7 +37,7 @@ export default function Menu() {
             </ul>
           </nav>
 
-          <a href='/api/v1/print/whitepaper.pdf' target='_blank' rel='noopener noreferrer'>
+          <a href={whitepaper} target='_blank' rel='noopener noreferrer'>
             <button className="text-white-100 border-gradient rounded-lg btn-custom py-3 px-5 font-semibold">
               Whitepaper
             </button>
@@ -67,7 +69,7 @@ export default function Menu() {
                 <a onClick={ToggleSidebar} href="#tokenomics"><li className='border-gradient p-3 font-orbitron'>Tokenomics</li></a>
                 <a onClick={ToggleSidebar} href="#roadmap"><li className='border-gradient p-3 font-orbitron'>Roadmap</li></a>
                 <a onClick={ToggleSidebar} href="#join"><li className='border-gradient p-3 font-orbitron'>Join us</li></a>
-                <a onClick={ToggleSidebar} href='/api/v1/print/whitepaper.pdf' target='_blank' rel='noopener noreferrer'><li className='border-gradient p-3 font-orbitron'>Whitepaper</li></a>
+                <a onClick={ToggleSidebar} href={whitepaper} target='_blank' rel='noopener noreferrer'><li className='border-gradient p-3 font-orbitron'>Whitepaper</li></a>
               </ul>
             </div>
 
