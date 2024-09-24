@@ -53,7 +53,7 @@ export default function Home() {
                             <img data-aos="zoom-in" src={top} alt="Logo" className='flex mx-auto' />
 
                             <h1 data-aos='fade-up' className='md:text-5xl text-2xl font-semibold text-gradient font-orbitron uppercase text-white-100'>
-                                改成“Learn about the project through  our detailed whitepaper”
+                                Learn about the project through  our detailed whitepaper
                             </h1>
 
                             <p data-aos='fade-in' className='text-black-25'>
@@ -85,7 +85,7 @@ export default function Home() {
                         <div className="lg:flex block justify-center lg:spacce-y-0 space-y-8 gap-x-12 lg:pt-20 py-6">
 
                             <div data-aos="fade-right" data-aos-delay="450" className="lg:w-5/12 w-full space-y-2">
-                                <h3 className='font-orbitron md:text-4xl text-2xl font-bold'>“Transparent Contract</h3>
+                                <h3 className='font-orbitron md:text-4xl text-2xl font-bold'>Transparent Contract</h3>
                                 <p className=' leading-relaxed pb-12'>
                                     Investing with Confidence, Trust Enhanced  Introducing the groundbreaking Transparent Contract model by LUCiC, where every step is crystal clear.  No specialized knowledge is required.  What Defines a Transparent Contract Project?
                                 </p>
@@ -105,7 +105,7 @@ export default function Home() {
                             </div>
 
                             <div data-aos="fade-left" data-aos-delay="450" className="lg:w-5/12 w-full  space-y-2">
-                                <h3 className='font-orbitron md:text-4xl text-2xl font-bold'> “Transparency</h3>
+                                <h3 className='font-orbitron md:text-4xl text-2xl font-bold'>Transparency</h3>
                                 <p className='text-gradient leading-relaxed'>
                                     The project's value growth path is clearly visible with well-defined, achievable milestone targets. Expectation of growth is both articulated and attainable.
                                 </p>
@@ -117,7 +117,7 @@ export default function Home() {
 
                             <div data-aos="fade-left" className="lg:w-1/2 w-full space-y-2">
 
-                                <h3 className='font-orbitron md:text-4xl text-2xl font-bold'>“Contractual Accountability:</h3>
+                                <h3 className='font-orbitron md:text-4xl text-2xl font-bold'>Contractual Accountability</h3>
                                 <p className=' leading-relaxed pb-12 text-gradient'>
 
                                     The project’s progress is fully disclosed, with transparent financial flows. Investors can monitor developments at any time. The current market landscape often lacks professional disclosure from project initiators. We vet dedicated professionals and enthusiasts to act as independent third part
@@ -420,7 +420,7 @@ export default function Home() {
                                     </div>
 
                                     <p className='text-sm text-center uppercase'>
-                                        ntegrate with popular web3 wallets such as OKE, Binance and Gate.
+                                        integrate with popular web3 wallets such as OKE, Binance and Gate.
                                     </p>
                                 </div>
                             </div>
@@ -532,7 +532,7 @@ export default function Home() {
 
                             <div data-aos="flip-left" className='bg-black-50 p-3 rounded-xl'>
                                 <div className='font-orbitron flex flex-col items-center justify-center space-y-5'>
-                                    <p className='text-lg font-semibold'>10000</p>
+                                    <p className='text-lg font-semibold'>10000 BNB</p>
 
                                     <div className='flex flex-col items-center justify-center'>
                                         <svg width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
