@@ -87,7 +87,7 @@ export default function Home() {
                             <div data-aos="fade-right" data-aos-delay="450" className="lg:w-5/12 w-full space-y-2">
                                 <h3 className='font-orbitron md:text-4xl text-2xl font-bold'>Transparent Contract</h3>
                                 <p className=' leading-relaxed pb-12'>
-                                    Investing with Confidence, Trust Enhanced  Introducing the groundbreaking Transparent Contract model by LUCiC, where every step is crystal clear.  No specialized knowledge is required.  What Defines a Transparent Contract Project?
+                                    Investing with Confidence, Trust Enhanced  Introducing the groundbreaking Transparent Contract model by LUCiC, where every step is crystal clear.  No specialized knowledge is required.  What Defines a Transparent Contract Project
                                 </p>
 
 
