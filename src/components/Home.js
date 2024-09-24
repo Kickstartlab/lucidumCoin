@@ -141,44 +141,6 @@ export default function Home() {
                     </div>
                 </section>
 
-                {/* text-section */}
-
-                <section id='about' className="lg:px-20 px-5 ">
-                    <div className='container mx-auto'>
-
-                        <div className="lg:pb-20 py-6">
-
-                            <div className="text-center space-y-6">
-
-                                <p data-aos="fade-in" className='leading-relaxed text-gradient'>
-                                    Korem ipsum dolor sit amet, consectetur adipiscing elit.
-                                </p>
-                                <h3 data-aos="fade-up" className='font-orbitron md:text-5xl text-2xl uppercase font-bold text-gradient'>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.
-                                </h3>
-
-                                <div className='flex justify-center items-center gap-6'>
-                                    <a data-aos="fade-right" href="/">
-                                        <button className="text-white-100 border-gradient rounded-lg btn-custom py-3 sm:px-5 px-3 font-semibold flex sm:gap-x-4 gap-2 items-center sm:text-base text-xs">
-                                            Explore More
-                                            <img src={box1} alt='box' className='w-8'></img>
-                                        </button>
-                                    </a>
-
-                                    <a data-aos="fade-left" href="/">
-                                        <button className="text-white-100 border-gradient rounded-lg btn-custom py-3 sm:px-5 px-3 font-semibold flex sm:gap-x-4 gap-2 items-center sm:text-base text-xs">
-                                            Learn More
-                                            <img src={box2} alt='box' className='w-8'></img>
-                                        </button>
-                                    </a>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </section>
-
 
                 {/* tokenomics section */}
 
